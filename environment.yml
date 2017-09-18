@@ -1,7 +1,7 @@
 name: jupyter
-channels:
-  - nodefaults
-  - conda-forge
+#channels:
+#  - nodefaults
+#  - conda-forge
 dependencies:
   - python=2.7
   - ipywidgets
