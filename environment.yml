@@ -3,7 +3,6 @@ channels:
 - conda-forge
 - defaults
 dependencies:
-- appnope=0.1.0=py27_0
 - backports.shutil_get_terminal_size=1.0.0=py_2
 - backports_abc=0.5=py27_0
 - blas=1.1=openblas
