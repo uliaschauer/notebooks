@@ -1,0 +1,8 @@
+name: jupyter
+channels:
+  - nodefaults
+  - conda-forge
+dependencies:
+  - ipywidgets
+  - matplotlib
+  - scipy
