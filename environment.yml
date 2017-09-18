@@ -29,7 +29,6 @@ dependencies:
 - jupyter_client=5.1.0=py27_0
 - jupyter_console=5.1.0=py27_0
 - jupyter_core=4.3.0=py27_0
-- libgfortran=3.0.0=0
 - libpng=1.6.28=0
 - libsodium=1.0.10=0
 - markupsafe=1.0=py27_0
