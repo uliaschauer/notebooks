@@ -57,7 +57,6 @@ dependencies:
 - python-dateutil=2.6.1=py27_0
 - pytz=2017.2=py27_0
 - pyzmq=16.0.2=py27_2
-- qt=5.6.2=h9e3eb04_4
 - qtconsole=4.3.1=py27_0
 - readline=6.2=0
 - scandir=1.5=py27_1
